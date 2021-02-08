@@ -1,3 +1,3 @@
 # Nick-Shoes-Fashion
 Only using HTML, CSS, Boostrap
-![Image description](https://i.ibb.co/yRN78RW/screenshot-azizul016-github-io-2021-01-21-22-23-29.png)
+![Image description](https://i.ibb.co/LdW3fY5/Mac-Book-Pro-3.png)
