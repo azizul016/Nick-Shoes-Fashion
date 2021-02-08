@@ -1,0 +1,93 @@
+a{
+    color: rgb(34, 30, 30)!important;
+}
+body{
+    background-color: #FFFFFF;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+.background-img{
+    background-color: #FFF9F4;
+    padding-bottom: 30px;
+}
+.nike-react{
+    color: #FA804C;
+    font-size: 60px;
+}
+.infinity{
+    color: rgb(49, 49, 185);
+    font-size: 60px;
+}
+.card-casual{
+    text-transform: uppercase;
+    color: rgb(49, 49, 185);
+}
+.card img{
+    background: #DCDCDF;
+    border-radius: 17px;
+    padding: 20px;
+}
+.card{
+    box-shadow: 0 0 15px lightgrey;
+    border: none !important;
+    border-radius: 15px;
+    padding: 20px;
+}
+.card-title{
+    text-transform: capitalize;
+}
+.card-text{
+    font-size: 14px;
+}
+.price{
+    color: #FA804C;
+}
+.buy-now-btn{
+    display: flex;
+    align-items: center;
+    padding: 5px 16px;
+    background: #024EAF;
+    color: #ffffff;
+    border-radius: 10px;
+    width: 36%;
+}
+.buy-now{
+    display: flex;
+    align-items: center;
+    padding: 0 16px;
+    background: #024EAF;
+    color: #ffffff;
+    border-radius: 10px;
+}
+.btn{
+    color: #FFFFFF;
+    text-transform: uppercase;
+}
+.btn:hover{
+    color: #FFFFFF;
+}
+
+footer .footer-left{
+    padding: 22px;
+    border-radius: 15px;
+    box-shadow: 0 0 15px lightgrey;
+}
+.footer-heading{
+text-transform: capitalize;
+}
+.footer-details{
+color: #536486;
+}
+.submit-btn{
+    color: black;
+}
+@media (max-width: 768px) {
+ .card{
+     width: 100%!important;
+ }
+}
+/* @media (max-width: 576px) {
+ .card{
+     width: 100%!important;
+ }
+} */
